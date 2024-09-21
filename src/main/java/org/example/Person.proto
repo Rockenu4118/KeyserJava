@@ -1,0 +1,11 @@
+syntax="proto3";
+package protobuf;
+
+option java_package = "org.example.protobuf";
+option java_outer_classname = "PersonProtos";
+
+message Person
+{
+  optional string name = 1;
+  optional int32 age = 2;
+}

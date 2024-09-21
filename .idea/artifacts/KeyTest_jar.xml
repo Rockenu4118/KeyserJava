@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KeyTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KeyTest_jar</output-path>
+    <root id="archive" name="KeyTest.jar">
+      <element id="module-output" name="KeyTest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/4.28.1/protobuf-java-4.28.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
